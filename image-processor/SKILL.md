@@ -1,3 +1,8 @@
+---
+name: image-processor
+description: A skill that Process images in a directory: compress, convert format, and/or crop to specific dimensions.
+---
+
 # Image Processor
 
 Process images in a directory: compress, convert format, and/or crop to specific dimensions.
