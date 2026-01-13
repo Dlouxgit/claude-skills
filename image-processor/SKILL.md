@@ -1,12 +1,9 @@
 ---
-
-name: image-processor
-description: A skill that Process images in a directory: compress, convert format, and/or crop to specific dimensions.
-license: Complete terms in LICENSE.txt
-
+name: doc-coauthoring
+description: Guide users through a structured workflow for co-authoring documentation. Use when user wants to write documentation, proposals, technical specs, decision docs, or similar structured content. This workflow helps users efficiently transfer context, refine content through iteration, and verify the doc works for readers. Trigger when user mentions writing docs, creating proposals, drafting specs, or similar documentation tasks.
 ---
 
-# Image Processor
+# Doc Co-Authoring Workflow
 
 Process images in a directory: compress, convert format, and/or crop to specific dimensions.
 
