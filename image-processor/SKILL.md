@@ -1,6 +1,7 @@
 ---
 name: image-processor
 description: A skill that Process images in a directory: compress, convert format, and/or crop to specific dimensions.
+license: Complete terms in LICENSE.txt
 ---
 
 # Image Processor
